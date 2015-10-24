@@ -7,7 +7,8 @@ haven't browsed that repo yet, you should take a quick look.
 Compare the readability of the [Markdown source][source] to the [LaTeX
 source][latex-source] from that repo. In general, when using Pandoc Markdown
 instead of LaTeX you can get by with much simpler text (though you sacrifice a
-little power).
+little power). You can also see the [compiled output](written.pdf), which looks 
+basically the same as the PDF generated from before.
 
 [latex-sample]: https://github.com/cmugpi/latex-sample
 
